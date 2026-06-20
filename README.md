@@ -46,3 +46,19 @@ Deployment:
 ## Status
 
 In Development
+
+## Development Roadmap
+
+### Completed
+- Literature review
+- Dataset selection
+- Baseline sentiment analysis
+
+### In Progress
+- Fuzzy inference engine
+- Explainable reasoning module
+
+### Planned
+- FastAPI REST API
+- Dashboard
+- Docker deployment
